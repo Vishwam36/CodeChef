@@ -1,6 +1,6 @@
 // By Vishwam Shriram Mundada
 // https://www.codechef.com/problems/BPHC03
-// Stamdard good question
+// Standard good question
 
 #include <bits/stdc++.h>
 using namespace std;
